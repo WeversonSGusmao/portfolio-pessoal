@@ -17,7 +17,7 @@ Página web simples para apresentar meu perfil e estudos. Projeto focado em **HT
 - Local: abra `index.html` no navegador
 
 ## 🖼️ Preview
-![Preview](https://image.thum.io/get/https://weversonsgusmao.github.io/Portfolio)
+![Preview](https://image.thum.io/get/https://weversonsgusmao.github.io/Portfolio/)
 
 ## 📚 Próximos passos
 - [ ] Adicionar versão com layout responsivo completo
