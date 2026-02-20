@@ -13,11 +13,11 @@ Página web simples para apresentar meu perfil e estudos. Projeto focado em **HT
 - Publicação com GitHub Pages
 
 ## ▶️ Como visualizar
-- Versão online: https://weversonsgusmao.github.io/Portifolio/
+- Versão online: https://weversonsgusmao.github.io/portfolio-pessoal/
 - Local: abra `index.html` no navegador
 
 ## 🖼️ Preview
-![Preview](https://image.thum.io/get/https://weversonsgusmao.github.io/Portifolio/)
+![Preview](https://image.thum.io/get/https://weversonsgusmao.github.io/portfolio-pessoal/)
 
 ## 📚 Próximos passos
 - [ ] Adicionar versão com layout responsivo completo
